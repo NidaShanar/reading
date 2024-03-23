@@ -4,3 +4,5 @@
 [22-Mar-2024 23:20:40 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
 [23-Mar-2024 01:07:04 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
 [23-Mar-2024 01:07:53 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
+[23-Mar-2024 01:23:20 UTC] PHP Notice: A feed could not be found at `https://wordpress.org/`; the status code is `400` and content-type is `text/plain` in /wordpress/wp-includes/class-simplepie.php on line 2
+[23-Mar-2024 01:23:49 UTC] PHP Deprecated:  Hook http_api_transports is deprecated since version 6.4.0 with no alternative available. in /wordpress/wp-includes/functions.php on line 140
